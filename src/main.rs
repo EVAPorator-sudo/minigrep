@@ -1,4 +1,4 @@
-use minigrep::{search, search_case_insensitive};
+use evagrep::{search, search_case_insensitive};
 use std::{env, error::Error, fs, process};
 
 fn main() {
